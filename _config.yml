@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.dcassol.com
-title: Daniela Cassol
-email: danicassol@gmail.com
-author: Daniela Cassol
-description: "Daniela's Personal Page"
+url: http://www.GretchenHeimlich.github.io
+title: Gretchen Heimlich
+email: gheim001@ucr.edu
+author: Gretchen Heimlich
+description: "Gretchen's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,13 +26,13 @@ gems:
 social:
   - icon: github
     title: github
-    url: https://github.com/dcassol  
+    url: https://github.com/GretchenHeimlich  
   - icon: envelope-o
     title: email
     url: mailto:danicassol@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/dcassol/
+    url: https://www.linkedin.com/in/GretchenHeimlich/
   - icon: file-pdf-o
     title: CV
     url: img/CassolDanielaCV.pdf
